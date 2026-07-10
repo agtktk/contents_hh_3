@@ -4,7 +4,7 @@ export const siteConfig = {
   siteDescription: '컨텐츠이용료현금화 공식 인증점. 업계 최저 수준 수수료와 24시간 실시간 상담으로 신청 즉시 5분 내 안전 입금!',
   author: '희망티켓 010-9469-1051',
   defaultImage: '/images/sample.png',
-  naverVerificationCode: '',
+  naverVerificationCode: '66041d95f52b50cff8141d4fd1f98f8ee268b92f',
   googleVerificationCode: '',
   company: '희망티켓',
   phone: '01094691051',
